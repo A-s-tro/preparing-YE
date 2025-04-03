@@ -30,4 +30,61 @@ familiarized with the latest exploits and security trends.
  Understanding of web-based application vulnerabilities (OWASP Top 10).
  Experience with scripting / programming skills (e.g., Python or PowerShell or Java or Perl etc).
 
- ~~~
+~~~
+
+
+~~~
+Penetration Testing & Security Tools:
+Web Application Security:
+Burp Suite
+Acunetix
+IBM AppScan
+HP WebInspect
+Veracode
+Fortify SCA
+Checkmarx
+Coverity
+Network & Infrastructure Security:
+Nmap
+Nessus
+OpenVAS
+Metasploit
+Wireshark
+Nikto
+SQLmap
+Responder
+BloodHound
+Red Team & Exploitation:
+Cobalt Strike
+Empire
+Covenant
+Mimikatz
+Impacket
+CrackMapExec
+PoshC2
+Wireless & Social Engineering:
+Aircrack-ng
+WiFite
+Bettercap
+Evilginx
+Social-Engineer Toolkit (SET)
+Static & Dynamic Code Analysis:
+SonarQube
+Checkmarx
+Semgrep
+Scripting & Automation:
+Python
+PowerShell
+Bash
+Ansible
+Puppet
+Chef
+Active Directory & Windows Security:
+BloodHound
+PingCastle
+Ldapsearch
+ADRecon
+SharpHound
+~~~
+
+
